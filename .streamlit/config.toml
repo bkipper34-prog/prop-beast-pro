@@ -1,0 +1,8 @@
+[theme]
+  primaryColor = "#F39C12"
+  backgroundColor = "#FFFFFF"
+  textColor = "#000000"
+
+[page]
+  layout = "centered"
+  initialSidebarState = "expanded"
